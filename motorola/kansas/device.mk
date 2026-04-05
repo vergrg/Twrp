@@ -84,4 +84,4 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := hdpi
 
 # Inherit from vendor
-$(call inherit-product, vendor/motorola/kansas/kansas-vendor.mk)
+# $(call inherit-product, vendor/motorola/kansas/kansas-vendor.mk)
